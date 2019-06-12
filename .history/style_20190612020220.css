@@ -1,0 +1,27 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.fondo1 {
+    background: url(images/fondo1.jpg);
+    background-size: cover;
+}
+
+.medium {
+    font-size: 4rem
+}
+
+.set1 {
+    background: url(images/set1.jpg);
+    background-size: cover;
+}
+
+.set2 {
+    background: url(images/set1.jpg);
+    background-size: cover;
+}
+
+footer {
+    background: rgb(37, 37, 36);
+    background-size: cover;
+}

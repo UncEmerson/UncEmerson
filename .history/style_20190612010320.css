@@ -1,0 +1,18 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.fondo1 {
+    background: url(images/fondo1.jpg);
+    background-size: cover;
+}
+
+.medium {
+    font-size: 4rem
+}
+
+.set1 {
+    background: url(images/set1.jpg);
+    background-size: cover;
+    border: circle 50%M
+}
